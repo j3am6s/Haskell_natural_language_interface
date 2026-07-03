@@ -1,0 +1,9 @@
+cradle:
+  direct:
+    arguments:
+      - LTypes.hs
+      - Lambek.hs
+      - Parser.hs
+      - PySupport.hs
+      - -package
+      - process
